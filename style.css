@@ -1,0 +1,266 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #fff0f5;
+}
+
+nav {
+    background-color: #ffb6c1;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+header {
+    background-color: pink;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 30px;
+    text-align: center;
+}
+
+footer {
+    background-color: pink;
+    text-align: center;
+    padding: 10px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #f8c8dc;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #f8c8dc;
+}
+
+.header {
+    background: linear-gradient(rgba(255,192,203,0.6), rgba(255,192,203,0.6)),
+                url('https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.section {
+    padding: 60px 20px;
+}
+
+.btn-custom {
+    background-color: gold;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #d4af37;
+}
+
+.footer {
+    background-color: #f8c8dc;
+    padding: 20px;
+    text-align: center;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #f8c8dc;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #f8c8dc;
+}
+
+.header {
+    background: linear-gradient(rgba(255,192,203,0.6), rgba(255,192,203,0.6)),
+                url('https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.section {
+    padding: 60px 20px;
+}
+
+.btn-custom {
+    background-color: gold;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #d4af37;
+}
+
+.footer {
+    background-color: #f8c8dc;
+    padding: 20px;
+    text-align: center;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #f8c8dc;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #f8c8dc;
+}
+
+.hero {
+    background: linear-gradient(rgba(255,192,203,0.6), rgba(255,192,203,0.6)),
+                url('https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.btn-custom {
+    background-color: gold;
+    color: black;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #d4af37;
+}
+
+.section {
+    padding: 60px 20px;
+}
+
+.footer {
+    background-color: #f8c8dc;
+    padding: 20px;
+    text-align: center;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #f8c8dc;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #f8c8dc;
+}
+
+.header {
+    background: linear-gradient(rgba(255,192,203,0.6), rgba(255,192,203,0.6)),
+                url('https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.section {
+    padding: 60px 20px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.btn-custom {
+    background-color: gold;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #d4af37;
+}
+
+.footer {
+    background-color: #f8c8dc;
+    padding: 20px;
+    text-align: center;
+}
+
+
